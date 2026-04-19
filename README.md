@@ -9,9 +9,9 @@
 | Dataset ID | `381980` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 110 records |
-| Free sample size | 11 records (10.0%) |
-| Last export | 2026-04-08T06:36:41.000230+00:00 |
+| Full dataset size | 118 records |
+| Free sample size | 11 records (9.32%) |
+| Last export | 2026-04-15T10:12:21.983289+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-oregon-us-sample-381980/releases/download/sample-latest/beamstation_381980_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
