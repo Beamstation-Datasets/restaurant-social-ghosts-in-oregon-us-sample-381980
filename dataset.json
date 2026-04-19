@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in Oregon, US",
-  "export_job_id": "466df38f-4550-4bae-9006-10f67511d039",
+  "export_job_id": "c81582b2-3cab-4080-8a6e-daace50636b7",
   "github_org": "Beamstation-Datasets",
   "id_short": 381980,
   "location_name": "Oregon",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-oregon-us-sample-381980",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/381980/beamstation_381980_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_pct": 10.0,
+  "sample_pct": 9.32,
   "sample_records": 11,
-  "sample_sha256": "e02eb0574f6fb9821bcf9a45d009b419b5c795bf295c8361626445a977aabc9a",
-  "sample_size_bytes": 57354,
-  "total_records": 110,
-  "updated_at": "2026-04-08T06:36:41.000230+00:00"
+  "sample_sha256": "76ebb48017ccc353bf5c18d5bec40e752b7c61fb176204e8bf7d0222f0812dba",
+  "sample_size_bytes": 56276,
+  "total_records": 118,
+  "updated_at": "2026-04-15T10:12:21.983289+00:00"
 }
