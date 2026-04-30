@@ -1,12 +1,12 @@
 {
-  "export_job_id": "1b4faac0-faf0-4d1e-9485-cee4f8e769c4",
+  "export_job_id": "e577d819-f3fe-4a40-af56-221a3a182d20",
   "id_short": 381980,
-  "published_at": "2026-04-22T19:39:17Z",
+  "published_at": "2026-04-30T07:21:53Z",
   "repo_name": "restaurant-social-ghosts-in-oregon-us-sample-381980",
   "sample_asset_name": "beamstation_381980_restaurants-us-or_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/381980/beamstation_381980_restaurants-us-or_SAMPLE_DIST.csv",
-  "sample_records": 3,
-  "sample_sha256": "b66a8270b5c9606cf56fcb784d7a79d0ebe48cfaaddb1d9e865fdc642ba0db2e",
-  "sample_size_bytes": 27761,
-  "total_records": 34
+  "sample_records": 9,
+  "sample_sha256": "6faa5bc77be187ebbde0f26abe5dafdf29e3bda07183dc1676aa730865cd7e10",
+  "sample_size_bytes": 48590,
+  "total_records": 91
 }
