@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in Oregon, US
 
-> Free BeamStation sample export with 3 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `381980` |
 | Location | Oregon |
 | Category | Restaurants |
-| Full dataset size | 34 records |
-| Free sample size | 3 records (8.82%) |
-| Last export | 2026-04-22T17:36:38.418712+00:00 |
+| Full dataset size | 91 records |
+| Free sample size | 9 records (9.89%) |
+| Last export | 2026-04-29T17:23:26.843814+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-oregon-us-sample-381980/releases/download/sample-latest/beamstation_381980_restaurants-us-or_SAMPLE_DIST.csv) |
 
 ## What is in this sample
